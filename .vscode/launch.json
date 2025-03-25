@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Launch C++ Program",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/Lecture3",
+      "cwd": "${workspaceFolder}",
+      "args": [],
+      "preLaunchTask": "build",
+      "MIMode": "lldb",
+      "console": "integratedTerminal" // Send output to the integrated terminal
+    }
+  ]
+}
