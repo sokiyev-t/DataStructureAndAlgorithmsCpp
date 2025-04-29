@@ -4,7 +4,7 @@
       "name": "Launch C++ Program",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/Lecture9",
+      "program": "${workspaceFolder}/Lecture10",
       "cwd": "${workspaceFolder}",
       "args": [],
       "preLaunchTask": "build",
